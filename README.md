@@ -1,1 +1,1 @@
-# retrieval-augmented-text-generation
+# Retrieval-Augmented Text Generation
